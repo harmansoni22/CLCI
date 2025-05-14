@@ -1,6 +1,6 @@
-# CLCI – Chess Lovers Community of Indore
+# CLCI – Chess Lovers lub Indore
 
-🧠 Built for: A community of chess lovers in Indore  
+🧠 Built for: Chess Lovers' Club Indore(CLCI)  
 💼 Client Project by: Harman Soni
 
 ## 💡 Features
@@ -12,7 +12,7 @@
 - HTML5
 - CSS3
 - Bootstrap 5
-- Vanilla JavaScript
+- JavaScript
 
 ## 🧭 How to Use
 Just open `index.html` in any browser.
